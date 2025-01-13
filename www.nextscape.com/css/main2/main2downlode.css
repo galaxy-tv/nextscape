@@ -1,0 +1,28 @@
+.html2-line-one #lineone-1:nth-of-type(1){
+    text-transform:none;
+    background-color:none;
+}
+.html2-line-one #lineone-2:nth-of-type(1){
+    text-transform:none;
+    background-color:none;
+    
+}
+.html2-line-two #linetwo-1:nth-of-type(1){
+    text-transform:none;
+    
+}
+.html2-line-two #linetwo-2:nth-of-type(1){
+    text-transform:none;
+    background-color:none;
+}
+.html2-line-three #linethree-1:nth-of-type(1){
+    text-transform:none;
+    
+}
+.html2-line-three #linethree-2:nth-of-type(1){
+    text-transform:none;
+    
+}
+
+
+
